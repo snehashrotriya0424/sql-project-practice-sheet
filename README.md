@@ -11,7 +11,9 @@ This repository includes both the data sources used for analysis and the specifi
 ### 📊 Data Sets
 * **`pizza_types.csv`**: Contains information about pizza types.
 * **`pizzas.csv`**: Contains details regarding specific pizza sizes and pricing.
-
+*  **`orders.csv`**: contains information about orders.
+*  **`orders_details csv`**: Contains details regarding specific pizzaid and quantity.
+  
 ### 🔍 SQL Queries
 The repository includes solutions for 13 distinct analytical questions:
 
